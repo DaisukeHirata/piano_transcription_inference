@@ -9,3 +9,9 @@ https://hosoblog.com/piano-transcription/
 ## how to cut mp3 in GarageBand
 
 https://sp7pc.com/apple/mac/19598
+
+## how to separate audio source
+
+https://forest.watch.impress.co.jp/docs/review/1437871.html
+https://github.com/adefossez/demucs
+https://huggingface.co/spaces/amin2809/demucs_playground
